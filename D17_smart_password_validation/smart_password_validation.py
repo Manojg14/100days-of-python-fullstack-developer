@@ -39,7 +39,7 @@ class PasswordChecker(BasicValidation, PasswordRules):
         if total >= 8 and count_upper >= 1 and count_lower >= 3 and count_special_ch >= 1 and count_number >= 3:
             print("Valid Password")
         else:
-            print("Invalid password. Follow the password policy.")
+            print("Invalid password,follow the password rules.")
 
 
 class CheckPassword(PasswordChecker):
