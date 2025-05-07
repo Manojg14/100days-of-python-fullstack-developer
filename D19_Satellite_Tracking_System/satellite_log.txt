@@ -1,0 +1,6 @@
+SAT-009,INSAT-3D,GEO,Infrared,Thermal,Humidity Sensor
+SAT-009,INSAT-3D,GEO,Infrared,Thermal,Humidity Sensor
+SAT-009,INSAT-23,LEO,Infrared,Thermal
+1,INSAT - 24,LEO,INFRARED
+
+1,INSAT-24,MEO,thermal
