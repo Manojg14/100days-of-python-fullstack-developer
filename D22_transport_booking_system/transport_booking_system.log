@@ -1,0 +1,5 @@
+2025-05-13 15:29:06,225 - ERROR - Error saving ticket to CSV: name 'file_path1' is not defined
+2025-05-13 15:43:27,166 - ERROR - Error modifying booking: invalid literal for int() with base 10: ''
+2025-05-13 15:44:10,336 - ERROR - Error saving ticket to CSV: name 'file_path1' is not defined
+2025-05-13 15:44:38,028 - ERROR - Error saving ticket to CSV: name 'file_path1' is not defined
+2025-05-13 15:48:14,447 - ERROR - Error modifying booking: invalid literal for int() with base 10: ''
