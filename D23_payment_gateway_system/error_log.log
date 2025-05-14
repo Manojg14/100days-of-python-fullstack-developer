@@ -1,0 +1,3 @@
+2025-05-14 19:36:20,067 | ERROR | Error writing successful transaction: 'charmap' codec can't encode character '\u20b9' in position 43: character maps to <undefined>
+2025-05-14 19:36:20,067 | ERROR | Error writing successful transaction: 'charmap' codec can't encode character '\u20b9' in position 35: character maps to <undefined>
+2025-05-14 19:36:20,068 | ERROR | Error writing successful transaction: 'charmap' codec can't encode character '\u20b9' in position 38: character maps to <undefined>
